@@ -1,6 +1,6 @@
 ```text
                                                               |  - Generative AI Engineer                 
-           __________                                         |  
+           __________                                         |  - Specializing in automating everything… except my sleep schedule.
          .'----------`.                                       |
          | .--------. |                                       |
          | |########| |       __________                      |  
