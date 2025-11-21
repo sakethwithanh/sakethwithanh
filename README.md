@@ -1,11 +1,9 @@
-```markdown
-<div align="center">
+
+
 
 # Hi there, I'm Saketh Ragirolla! 👋
 
-### Generative AI Engineer | Tech Analyst | B.Tech CSE @ IIITD
-
-</div>
+### Generative AI Engineer | Tech Analyst | B.Tech CSE @ IIIT
 
 ```text
    _____            saketh@ragirolla
@@ -30,4 +28,4 @@
                     Codeforces: . Max Rating 1300+
 ```
 
-<div align="center">
+
