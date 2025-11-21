@@ -1,11 +1,11 @@
-```text
+`
                                                               |  - Generative AI Engineer                 
            __________                                         |  - Specializing in automating everything… except my sleep schedule.
          .'----------`.                                       |
          | .--------. |                                       |
-         | |########| |       __________                      |  
+         | |########| |       __________                      |  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/sakethwithanH/)
          | |########| |      /__________\                     |      
-.--------| `--------' |------|    --=-- |-------------.       | 
+.--------| `--------' |------|    --=-- |-------------.       |
 |        `----,-.-----'      |o ======  |             |       | 
 |       ______|_|_______     |__________|             |       |
 |      /  %%%%%%%%%%%%  \  Saketh Ragirolla           |       | 
@@ -15,4 +15,4 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^       |
                                                               |
 ```
-![](https://leetcode.com/u/sakethwithanH/)
+
