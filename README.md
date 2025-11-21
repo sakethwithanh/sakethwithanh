@@ -3,7 +3,7 @@
            __________                                         |  - Specializing in automating everything… except my sleep schedule.
          .'----------`.                                       |
          | .--------. |                                       |
-         | |########| |       __________                      |  [LeetCode](https://leetcode.com/u/sakethwithanH/)
+         | |########| |       __________                      |
          | |########| |      /__________\                     |      
 .--------| `--------' |------|    --=-- |-------------.       |
 |        `----,-.-----'      |o ======  |             |       | 
