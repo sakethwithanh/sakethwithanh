@@ -1,11 +1,11 @@
 ```
-                                                              |  - Generative AI Engineer                 
-           __________                                         |  - Specializing in automating everything… except my sleep schedule.
+                                                              |                 
+           __________                                         |  
          .'----------`.                                       |
          | .--------. |                                       |   
          | |########| |       __________                      |
-         | |########| |      /__________\                     |      
-.--------| `--------' |------|    --=-- |-------------.       |
+         | |########| |      /__________\                     |  - Generative AI Engineer   
+.--------| `--------' |------|    --=-- |-------------.       |  - Specializing in automating everything… except my sleep schedule.
 |        `----,-.-----'      |o ======  |             |       | 
 |       ______|_|_______     |__________|             |       |
 |      /  %%%%%%%%%%%%  \  Saketh Ragirolla           |       | 
